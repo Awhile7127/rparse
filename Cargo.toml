@@ -1,6 +1,6 @@
 [package]
 name = "rparse"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple human-readable command-line parser"
 license = "WTFPL"
 license-file = "LICENSE"
